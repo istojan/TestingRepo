@@ -1,2 +1,2 @@
 # TestingRepo
-Test for Softvare Engineering
+Test for Software Engineering
